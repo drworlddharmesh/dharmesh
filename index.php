@@ -1,4 +1,4 @@
 <?php
 
-echo "sk2";
+echo "sk";
 ?>
